@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	hmmm "github.com/ramamimu/golang-modules.git/hello"
+	hmmm "github.com/ramamimu/golang-modules/hello"
 )
 
 func main() {
