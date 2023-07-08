@@ -3,7 +3,7 @@ package hello
 import "fmt"
 
 func GetHello(name string) string {
-	return "hello " + name
+	return "hello double " + name
 }
 
 func JustPrint() {

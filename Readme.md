@@ -12,6 +12,12 @@ go mod init <name_module>
 go get <name_module>
 ```
 
+### **List version**
+
+```go
+go list -m -versions <path_github>
+```
+
 ### **Upgrade Module**
 
 To upgrade module, we just make a new tag in Git
